@@ -1,0 +1,13 @@
+{
+  "name": "lumen402-aggr",
+  "version": "0.1.0",
+  "description": "x402 payment aggregator",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": ["x402", "lumen402", "blockchain"],
+  "author": "Lumen402",
+  "license": "MIT"
+}
