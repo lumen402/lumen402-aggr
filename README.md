@@ -2,6 +2,8 @@
 
 Multi-chain x402 payment protocol aggregator for decentralized micropayments.
 
+## Quick Start
+
 ## Features
 
 - Service discovery across multiple blockchain networks
