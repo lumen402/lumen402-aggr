@@ -3,4 +3,6 @@ export interface X402Service {
   name: string;
   category: string;
   pricePerUnit: number;
+  currency: 'USDC';
+  supportedChains: string[];
 }
