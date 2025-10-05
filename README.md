@@ -4,6 +4,11 @@ Multi-chain x402 payment protocol aggregator for decentralized micropayments.
 
 ## Quick Start
 
+```bash
+npm install
+npm run dev
+```
+
 ## Features
 
 - Service discovery across multiple blockchain networks
