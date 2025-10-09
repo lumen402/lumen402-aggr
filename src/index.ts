@@ -3,6 +3,8 @@ import express from 'express';
 const app = express();
 app.use(express.json());
 
-app.listen(3001, () => {
-  console.log('lumen402 aggregator started');
+const PORT = process.env.PORT || 3001;
+
+app.listen(PORT, () => {
+  console.log(`lumen402 aggregator running on port ${PORT}`);
 });
