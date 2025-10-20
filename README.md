@@ -30,6 +30,13 @@ npm run dev
 - `POST /api/x402/verify` - Verify transaction
 - `POST /api/x402/register` - Register new service
 
+## Supported Networks
+
+- Base (live)
+- Polygon (coming soon)
+- BSC (coming soon)
+- Solana (coming soon)
+
 ## License
 
 MIT
