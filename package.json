@@ -1,6 +1,6 @@
 {
   "name": "lumen402-aggr",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "x402 payment aggregator",
   "main": "dist/index.js",
   "scripts": {
